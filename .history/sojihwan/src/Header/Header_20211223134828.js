@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-
+import Img from '../Img/rush_hour_html_story_1_png-1.png'
 
 function Header(){
   return(

@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-
+import rush from '../Img'
 
 function Header(){
   return(
@@ -9,7 +9,7 @@ function Header(){
       <p>
             <h1 id="title_name">rush hour</h1>
         </p>
-        <img className="first_background" src="../src/Img/rush_hour_html_story_1_png-1.png" />
+        <rush className="first_background" src="../src/Img/rush_hour_html_story_1_png-1.png" />
     </header>
   )
 }
