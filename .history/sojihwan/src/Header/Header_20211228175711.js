@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
-import '../Header/Header.css'
+
 
 function Header(){
   return(
