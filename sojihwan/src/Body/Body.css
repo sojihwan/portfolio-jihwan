@@ -23,7 +23,7 @@ table.type10 {
     font-weight: bold;
     vertical-align: top;
     color: rgb(0, 0, 0);
-    background: #1fc72d;
+    background: #1fc72d4b;
     margin: 20px 10px;
   }
   table.type10 tbody th {
@@ -36,6 +36,6 @@ table.type10 {
     vertical-align: top;
   }
   table.type10 .even {
-    background: #d6ffdd;
+    background: #d6ffdd49;
     height: 50px;
   }
