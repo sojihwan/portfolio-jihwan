@@ -1,9 +1,10 @@
 .profile{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
     position: absolute;
-    left: 47%;
+    left: 45%;
+    top: 150px;
 }
 nav{
     height: 200px;
