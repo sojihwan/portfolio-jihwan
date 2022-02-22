@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import '../Body/Body.css'
 
 function Body(){
@@ -31,7 +30,7 @@ function Body(){
               <td scope="row">사진</td>
               <td scope="row">2020-03-18~ing</td>
               <td scope="row">사진 모음 사이트(by jiwan)</td>
-              <td><Link to="/BY_JIWAN"><button>이동</button></Link></td>
+              <td><button>이동</button></td>
             </tr>
             <tr className="even">
               <td scope="row">my 유튜브</td>
