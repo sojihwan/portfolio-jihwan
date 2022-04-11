@@ -11,4 +11,5 @@ function JiwanBody(){
         </div>
     )
 }
+
 export default JiwanBody;

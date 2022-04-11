@@ -34,12 +34,13 @@ table.type10 {
     width: 350px;
     padding: 10px;
     vertical-align: top;
-    
+
   }
   table.type10 .even {
     background: #f5fffac7;
     height: 50px;
   }
+  
   .png{
     width: 100px;
 
