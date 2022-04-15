@@ -10,6 +10,7 @@ function JiwanBody(){
             <div className="divimg"><img src="Img/20200725_200049.jpg"></img></div>
         </div>
     )
+    
 }
 
 
